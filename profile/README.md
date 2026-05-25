@@ -1,16 +1,31 @@
 # Codebyte
 
-Building practical SaaS from Tel Aviv.
+> Building focused SaaS from Tel Aviv. Every product here is built, owned, and operated in-house.
 
-## Active products
+---
 
-- **[Asistry](https://asistry.com)** — connect any AI agent, one dashboard. *(launching soon)*
+## 🚀 Products
 
-## About
+### [Asistry](https://asistry.com)
+**Mission control for your AI agents.**
+Connect any AI agent, monitor runs, manage tasks, and orchestrate workflows — all from one dashboard.
+→ [asistry.com](https://asistry.com)
 
-Codebyte is an Israeli software company ([codebyte.co.il](https://codebyte.co.il)) shipping focused tools for developers and operators. Every product here is built, owned, and operated in-house.
+---
 
-## Contact
+## 🛠 Stack
 
-- Web: [codebyte.co.il](https://codebyte.co.il)
-- Email: hello@codebyte.co.il
+TypeScript · Next.js · Supabase · Vercel · AI/LLM integrations
+
+---
+
+## 🌐 Links
+
+| | |
+|---|---|
+| Company | [codebyte.co.il](https://codebyte.co.il) |
+| Product | [asistry.com](https://asistry.com) |
+| X / Twitter | [@AsistryAI](https://x.com/AsistryAI) |
+| YouTube | [@Asistry](https://youtube.com/@Asistry) |
+| Discord | [Join](https://discord.gg/asistry) |
+| Email | hello@codebyte.co.il |
